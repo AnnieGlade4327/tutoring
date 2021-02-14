@@ -2,7 +2,8 @@ let hi = "hi";
 // console.log(hi);
  let fun = ["one", "two", "three"];
 var whatever = 1;
-console.log(fun -2);
+console.log(fun [whatever + 1]);
+console.log(fun [2]);
 console.log(fun [whatever]);
 whatever ++
  console.log(fun [whatever]);
