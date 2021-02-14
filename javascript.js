@@ -9,10 +9,9 @@ whatever ++
  console.log(fun [whatever]);
  console.log(fun [1]);
 
-for (let num = -10; num >= 55 ; num += 1) {
+for (let num = 0; num >= 10 ; num + 1) {
 console.log(num);
 console.log(fun [num]);
-
     };
 console.log("fun");
 
