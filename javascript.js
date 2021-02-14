@@ -4,7 +4,7 @@ let hi = "hi";
 var whatever = 1;
 console.log(fun [whatever + 1]);
 console.log(fun [2]);
-console.log(fun [whatever]);
+console.log(fun [whatever -1]);
 whatever ++
  console.log(fun [whatever]);
  console.log(fun [1]);
