@@ -13,3 +13,7 @@ console.log(fun [num]);
     };
 console.log("hi");
 
+let doopdeeDoo = "duped";
+
+console.log(typeof doopdeeDoo.toUpperCase);
+console.log(doopdeeDoo.toUpperCase());
